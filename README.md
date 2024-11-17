@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## Name:Sandeep S
+## Reg:212223220092
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
